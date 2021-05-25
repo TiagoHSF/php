@@ -2,6 +2,7 @@
 
 echo "<strong>Olá mundo!</strong>";
 
-echo "Olá, programador";
+echo "Olá, segunda linha!";
+
 
 ?>
